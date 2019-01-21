@@ -1,0 +1,22 @@
+{
+    "todos": [
+        {
+            "title": "task1",
+            "responsible": "raul",
+            "description": "una tarea",
+            "priority": "low"
+        },
+        {
+            "title": "task2",
+            "responsible": "armando",
+            "description": "otra tarea",
+            "priority": "medium"
+        },
+        {
+            "title": "task3",
+            "responsible": "gonzalo",
+            "description": "varias tareas",
+            "priority": "hight"
+        }
+    ]
+}
